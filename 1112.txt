@@ -1,0 +1,7 @@
+Account Created
+Account Number: 1112
+USER ID- r: ram_02
+Account Holder Name: ram
+Pin: 2222
+Balance: 50000.0
+Date: Thu Feb 08 09:47:42 IST 2024

@@ -1,0 +1,7 @@
+Account Created
+Account Number: 1113
+USER ID- r: shyam_03
+Account Holder Name: shyam
+Pin: 3333
+Balance: 40000.0
+Date: Thu Feb 08 09:48:04 IST 2024

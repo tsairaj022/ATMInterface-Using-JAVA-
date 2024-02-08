@@ -1,0 +1,7 @@
+Account Created
+Account Number: 1115
+USER ID- r: sahil_05
+Account Holder Name: sahil
+Pin: 5555
+Balance: 40000.0
+Date: Thu Feb 08 09:48:44 IST 2024
